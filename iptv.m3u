@@ -1,0 +1,169 @@
+#EXTM3U
+#EXTINF:0,#EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="Thai Free TV",NBT FHD
+https://iptv36.netlify.app/api/aisplay/nbt
+#EXTINF:0,#EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="Thai Free TV",NBT HD
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/livestream88/nbt/playlist.m3u8
+#EXTINF:0,#EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="Thai Free TV",Thai PBS FHD
+https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
+#EXTINF:0,#EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="Thai Free TV",Thai PBS FHD
+https://iptv36.netlify.app/api/aisplay/thaipbs
+#EXTINF:0,#EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="Thai Free TV",ALTV FHD
+https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
+#EXTINF:0,#EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="Thai Free TV",ALTV
+https://cdn6.goprimetime.info/feed/202205171929/ALTV/index.m3u8
+#EXTINF:0,#EXTINF:0,#EXTINF:0 tvg-id="TV5.ca" group-title="Thai Free TV",TV5 FHD
+https://iptv36.netlify.app/api/aisplay/tv5
+#EXTINF:0,#EXTINF:0,#EXTINF:0 tvg-id="TV5.ca" group-title="Thai Free TV",TV5 HD
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/livestream88/5hd/playlist.m3u8
+#EXTINF:0,#EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="Thai Free TV",T-Sports
+https://iptv36.netlify.app/api/aisplay/tsports
+#EXTINF:0,#EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="Thai Free TV",T-Sports
+https://cdn6.goprimetime.info/feed/202205171929/chtsport/index.m3u8
+#EXTINF:0,#EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="Thai Free TV",TPTV FHD
+https://cdn-live.tpchannel.org/v1/0180e10a4a7809df73070d7d8760/0180e10adac40b8ed59433d5f3ce/TV_1080p.m3u8
+#EXTINF:0,#EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="Thai Free TV",TPTV HD
+https://cdn-live.tpchannel.org/v1/0180e10a4a7809df73070d7d8760/0180e10adac40b8ed59433d5f3ce/TV_720p.m3u8
+#EXTINF:0,#EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="Thai Free TV",TNN16
+https://iptv36.netlify.app/api/aisplay/tnn16
+#EXTINF:0,#EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="Thai Free TV",TNN16
+https://cdn6.goprimetime.info/feed/202205171929/chtnn/index.m3u8
+#EXTINF:0,#EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="Thai Free TV",JKN18
+https://iptv36.netlify.app/api/aisplay/jkn18
+#EXTINF:0,#EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="Thai Free TV",JKN18
+https://cdn6.goprimetime.info/feed/202205171929/newtv/index.m3u8
+#EXTINF:0,#EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="Thai Free TV",Nation TV FHD
+https://stream-03.sg1.dailymotion.com/sec(ccIVIlWaGsSkNrAGI3_YScQzD_nvZYrOs0ayInT9fpfQAbg-vEg-nYZckPvu9tk0)/dm/3/x6eoldf/d/live-4.m3u8
+#EXTINF:0,#EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="Thai Free TV",Nation TV
+https://iptv36.netlify.app/api/aisplay/nation
+#EXTINF:0,#EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="Thai Free TV",Workpoint TV FHD
+https://stream-04.sg1.dailymotion.com/sec(MuIaQwZ7oLftuFXhsi7R8vpT4nn1-EQ4YVuYfqmENd-s2AkUTDab8OE-BZsdLquk)/dm/3/x6g9qjj/s/live-4.m3u8
+#EXTINF:0,#EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="Thai Free TV",Workpoint TV
+https://cdn6.goprimetime.info/feed/202205171929/chworkpoint/index.m3u8
+#EXTINF:0,#EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="Thai Free TV",True4U HD
+https://iptv36.netlify.app/api/true?channel=true4uhd
+#EXTINF:0,#EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="Thai Free TV",True4U
+https://cdn6.goprimetime.info/feed/202205171929/chtrue4u3/index.m3u8
+#EXTINF:0,#EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="Thai Free TV",GMM25 HD
+https://bcovlive-a.akamaihd.net/fb7ac9cc4e1140238e3077ffd29337fe/ap-southeast-1/6415628290001/profile_0/chunklist.m3u8
+#EXTINF:0,#EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="Thai Free TV",GMM25
+https://iptv36.netlify.app/api/aisplay/gmm25
+#EXTINF:0,#EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="Thai Free TV",CH8 HD
+https://prsmedia-mykojh.cdn.byteark.com/fleetstream/live/720p/index.m3u8
+#EXTINF:0,#EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="Thai Free TV",CH8
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/livestream88/ch8/playlist.m3u8
+#EXTINF:0,#EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="Thai Free TV",MONO29 FHD
+https://live-3.monomax.me/tv/mono29_1440p.m3u8
+#EXTINF:0,#EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="Thai Free TV",MONO29 Soundtrack FHD
+https://edge4-bkk.3bb.co.th:9443/Stream_HLSMONO29_1080P/mono29hls_1080EN.stream/playlist.m3u8
+#EXTINF:0,#EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="Thai Free TV",MCOT FHD
+https://iptv36.netlify.app/api/aisplay/mcot
+#EXTINF:0,#EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="Thai Free TV",MCOT HD
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/livestream88/mcothd/digitaltv/mcothd/chunks.m3u8
+#EXTINF:0,#EXTINF:0,#EXTINF:0 tvg-id="ort-hd" group-title="Thai Free TV",ONE FHD
+https://iptv36.netlify.app/api/aisplay/one
+#EXTINF:0,#EXTINF:0,#EXTINF:0 tvg-id="ort-hd" group-title="Thai Free TV",ONE HD
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/livestream88/one31/playlist.m3u8
+#EXTINF:0,#EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="Thai Free TV",Thairath TV FHD
+https://iptv36.netlify.app/api/aisplay/thairath
+#EXTINF:0,#EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="Thai Free TV",Thairath TV HD
+https://cdn6.goprimetime.info/feed/202205171929/chthairath/index.m3u8
+#EXTINF:0,#EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="Thai Free TV",CH3 FHD
+https://iptv36.netlify.app/api/aisplay/ch3
+#EXTINF:0,#EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="Thai Free TV",CH3 HD
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/livestream88/3hd/digitaltv/3hd/chunks.m3u8
+#EXTINF:0,#EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="Thai Free TV",Amarin TV FHD
+https://iptv36.netlify.app/api/aisplay/amarin
+#EXTINF:0,#EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="Thai Free TV",Amarin TV HD
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/livestream88/amarin/digitaltv/amarin/chunks.m3u8
+#EXTINF:0,#EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="Thai Free TV",CH7 FHD
+https://iptv36.netlify.app/api/aisplay/ch7
+#EXTINF:0,#EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="Thai Free TV",CH7 FHD
+https://live-cdn-hwc.ch7.com/livech7hd/HD_1080p.m3u8?vhost=streaming-hwc.ch7.com
+#EXTINF:0,#EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="Thai Free TV",PPTV FHD
+https://iptv36.netlify.app/api/aisplay/pptv
+#EXTINF:0,#EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="Thai Free TV",PPTV HD
+https://cdn6.goprimetime.info/feed/202205171929/chpptvhd3/index.m3u8
+#EXTINF:0,#EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="Thai Free TV",Top News FHD
+https://iptv36.netlify.app/api/aisplay/topnews
+#EXTINF:0,#EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="Thai Free TV",NEWS1 FHD
+http://news1.live14.com/stream/news1_hi.m3u8
+#EXTINF:0,#EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="Thai Free TV",TVB Thai FHD
+https://edge6a.v2h-cdn.com/tvb_thai/tvb_thai.stream/playlist.m3u8
+#EXTINF:0,#EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="Thai Free TV",2023-04-01T06:47
+https://iptv36.my.to/logo/info.png
+#EXTINF:0,#EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="Thai Free TV",Workpoint TV
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/livestream88/workpoint/playlist.m3u8
+#EXTINF:0,#EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="Thai Free TV",NBT FHD
+https://iptv36.netlify.app/api/aisplay/nbt
+#EXTINF:0,#EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="Thai Free TV",Thai PBS FHD
+https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
+#EXTINF:0,#EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="Thai Free TV",ALTV FHD
+https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
+#EXTINF:0,#EXTINF:0,#EXTINF:0 tvg-id="TV5.ca" group-title="Thai Free TV",TV5 FHD
+https://iptv36.netlify.app/api/aisplay/tv5
+#EXTINF:0,#EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="Thai Free TV",PPTV HD
+https://cdn6.goprimetime.info/feed/202205171929/chpptvhd3/index.m3u8
+#EXTINF:0,#EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="Thai Free TV",T-Sports
+https://iptv36.netlify.app/api/aisplay/tsports
+#EXTINF:0,#EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="Thai Free TV",CH8
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/livestream88/ch8/playlist.m3u8
+#EXTINF:0,#EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="Thai Free TV",Cartoon Club
+https://edge1-bkk.3bb.co.th:9443/cartoonLiveApp/cartoonLiveApp.stream/chunklist_w859044783.m3u8
+#EXTINF:0,#EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="Thai Free TV",TPTV FHD
+https://cdn-live.tpchannel.org/v1/0180e10a4a7809df73070d7d8760/0180e10adac40b8ed59433d5f3ce/TV_1080p.m3u8
+#EXTINF:0,#EXTINF:0,#EXTINF:0 tvg-id="ort-hd" group-title="Thai Free TV",ONE HD
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/livestream88/one31/playlist.m3u8
+#EXTINF:0,#EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="Thai Free TV",Thairath TV HD
+https://cdn6.goprimetime.info/feed/202205171929/chthairath/index.m3u8
+#EXTINF:0,#EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="Thai Free TV",CH3 HD
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/livestream88/3hd/digitaltv/3hd/chunks.m3u8
+#EXTINF:0,#EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="Thai Free TV",Amarin TV HD
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/livestream88/amarin/digitaltv/amarin/chunks.m3u8
+#EXTINF:0,#EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="Thai Free TV",CH7 FHD
+https://live-cdn-hwc.ch7.com/livech7hd/HD_1080p.m3u8?vhost=streaming-hwc.ch7.com
+#EXTINF:0,#EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="Thai Free TV",TNN16
+https://iptv36.netlify.app/api/aisplay/tnn16
+#EXTINF:0,#EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="Thai Free TV",TNN16
+https://cdn6.goprimetime.info/feed/202205171929/chtnn/index.m3u8
+#EXTINF:0,#EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="Thai Free TV",JKN18
+https://iptv36.netlify.app/api/aisplay/jkn18
+#EXTINF:0,#EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="Thai Free TV",TVB Thai FHD
+https://edge6a.v2h-cdn.com/tvb_thai/tvb_thai.stream/playlist.m3u8
+#EXTINF:0,#EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="Thai Free TV",NEWS1 FHD
+http://news1.live14.com/stream/news1_hi.m3u8
+#EXTINF:0,#EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="Thai Free TV",Top News FHD
+https://iptv36.netlify.app/api/aisplay/topnews
+#EXTINF:0,#EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="Thai Free TV",Nation TV FHD
+https://stream-03.sg1.dailymotion.com/sec(ccIVIlWaGsSkNrAGI3_YScQzD_nvZYrOs0ayInT9fpfQAbg-vEg-nYZckPvu9tk0)/dm/3/x6eoldf/d/live-4.m3u8
+#EXTINF:0,#EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="Thai Free TV",Workpoint TV FHD
+https://stream-04.sg1.dailymotion.com/sec(MuIaQwZ7oLftuFXhsi7R8vpT4nn1-EQ4YVuYfqmENd-s2AkUTDab8OE-BZsdLquk)/dm/3/x6g9qjj/s/live-4.m3u8
+#EXTINF:0,#EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="Thai Free TV",True4U HD
+https://iptv36.netlify.app/api/true?channel=true4uhd
+#EXTINF:0,#EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="Thai Free TV",GMM25 HD
+https://bcovlive-a.akamaihd.net/fb7ac9cc4e1140238e3077ffd29337fe/ap-southeast-1/6415628290001/profile_0/chunklist.m3u8
+#EXTINF:0,#EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="Thai Free TV",GMM25
+https://iptv36.netlify.app/api/aisplay/gmm25
+#EXTINF:0,#EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="Thai Free TV",CH8 HD
+https://prsmedia-mykojh.cdn.byteark.com/fleetstream/live/720p/index.m3u8
+#EXTINF:0,#EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="Thai Free TV",MONO29 Soundtrack FHD
+https://edge4-bkk.3bb.co.th:9443/Stream_HLSMONO29_1080P/mono29hls_1080EN.stream/playlist.m3u8
+#EXTINF:0,#EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="Thai Free TV",MONO29 FHD
+https://live-3.monomax.me/tv/mono29_1440p.m3u8
+#EXTINF:0,#EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="Thai Free TV",MCOT FHD
+https://iptv36.netlify.app/api/aisplay/mcot
+#EXTINF:0,#EXTINF:0,#EXTINF:0 tvg-id="ort-hd" group-title="Thai Free TV",ONE FHD
+https://iptv36.netlify.app/api/aisplay/one
+#EXTINF:0,#EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="Thai Free TV",Thairath TV FHD
+https://iptv36.netlify.app/api/aisplay/thairath
+#EXTINF:0,#EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="Thai Free TV",CH3 FHD
+https://iptv36.netlify.app/api/aisplay/ch3
+#EXTINF:0,#EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="Thai Free TV",Amarin TV FHD
+https://iptv36.netlify.app/api/aisplay/amarin
+#EXTINF:0,#EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="Thai Free TV",CH7 FHD
+https://iptv36.netlify.app/api/aisplay/ch7
+#EXTINF:0,#EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="Thai Free TV",PPTV FHD
+https://iptv36.netlify.app/api/aisplay/pptv
+#EXTINF:0,#EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="Thai Free TV",2023-04-01T06:47
+https://iptv36.my.to/logo/info.png
+#EXTINF:0,#EXTINF:0,Workpoint
+https://stream-02.dc3.dailymotion.com/sec(MuIaQwZ7oLftuFXhsi7R8qI8lNSkPktBSp0oadZ9timr1azMkP2xDmAYMIpiZruD)/dm/3/x6g9qjj/s/live-4.m3u8
