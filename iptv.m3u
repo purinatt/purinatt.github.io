@@ -167,3 +167,6 @@ https://iptv36.netlify.app/api/aisplay/pptv
 https://iptv36.my.to/logo/info.png
 #EXTINF:0,#EXTINF:0,Workpoint
 https://stream-02.dc3.dailymotion.com/sec(MuIaQwZ7oLftuFXhsi7R8qI8lNSkPktBSp0oadZ9timr1azMkP2xDmAYMIpiZruD)/dm/3/x6g9qjj/s/live-4.m3u8
+#EXTINF:-1 tvg-chno="31" tvg-id="One31.th" tvg-name="ONE HD" tvg-logo="https://i.imgur.com/9apyiI0.png" group-title="Digital TV",ONE HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/202205171929/chonehd/index.m3u8
