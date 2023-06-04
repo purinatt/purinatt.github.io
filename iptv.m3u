@@ -250,3 +250,20 @@ https://cdn6.goprimetime.info/feed/202205171929/ch7hd/index.m3u8
 #EXTINF:-1 tvg-chno="36" tvg-id="PPTVHD36.th" tvg-name="PPTV HD" tvg-logo="https://i.imgur.com/i4t7Q0C.png" group-title="Digital TV",PPTV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/202205171929/chpptvhd3/index.m3u8
+
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT",beIN Sports 1 HD TH
+http://restream.geniptv.com:8080/5h5vwu44MB/xhGOsoJHn0/8506
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT",beIN Sports 2 HD TH
+http://restream.geniptv.com:8080/5h5vwu44MB/xhGOsoJHn0/8505
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT",beIN Sports 3 HD TH
+http://restream.geniptv.com:8080/5h5vwu44MB/xhGOsoJHn0/8504
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT",beIN Sports 4 HD TH
+http://restream.geniptv.com:8080/5h5vwu44MB/xhGOsoJHn0/8503
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT",True Sports 1 HD TH
+http://restream.geniptv.com:8080/5h5vwu44MB/xhGOsoJHn0/8498
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT",True Sports 2 HD TH
+http://restream.geniptv.com:8080/5h5vwu44MB/xhGOsoJHn0/8497
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT",True Sports 3 HD TH
+http://restream.geniptv.com:8080/5h5vwu44MB/xhGOsoJHn0/8496
